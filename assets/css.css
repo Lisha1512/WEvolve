@@ -95,7 +95,7 @@ h1, h2, h3, h4, h5, h6, .font-primary {
 # Navigation Menu
 --------------------------------------------------------------*/
 /**
-* Desktop Navigation 
+* Desktop Navigation
 */
 .navbar {
   padding: 0;
@@ -193,7 +193,7 @@ h1, h2, h3, h4, h5, h6, .font-primary {
 }
 
 /**
-* Mobile Navigation 
+* Mobile Navigation
 */
 .mobile-nav-toggle {
   color: #7a6960;
@@ -387,7 +387,7 @@ section {
 }
 
 .section-bg {
-  background-color: #fef8f5;
+  background-color: #D3DEDC;
 }
 
 .section-title {
@@ -504,12 +504,12 @@ section {
   position: relative;
   overflow: hidden;
   margin: 0 0 40px 0;
-  background: #fff;
+  background: #ECECEC;
   box-shadow: 0 10px 29px 0 rgba(68, 88, 144, 0.1);
   transition: all 0.3s ease-in-out;
   border-radius: 15px;
   text-align: center;
-  border-bottom: 3px solid #fff;
+  border-bottom: 3px solid #ECECE;
 }
 .services .icon-box:hover {
   transform: translateY(-5px);
@@ -541,7 +541,7 @@ section {
 .button {
   border: none;
   color: rgb(0, 0, 0);
-  background-color: #c4b2b4;
+  background-color: #EEEDDE;
   padding: 15px 32px;
   text-align: center;
   text-decoration:none;
@@ -553,8 +553,8 @@ section {
 
 .button:hover{
   border: none;
-  color: rgb(255, 228, 228);
-  background-color: #494142;
+  color: #97BFB4;
+  background-color: #EFEFEF;
   padding: 15px 32px;
   text-align: center;
   text-decoration:none;
@@ -568,7 +568,7 @@ section {
   width: 100%;
   padding: 0%;
   height: 300px;
-  background-color: #f1e2e2;
+  background-color: #D3DEDC;
 }
 
 #breathe .breathe-writeup h1 {
