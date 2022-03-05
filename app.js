@@ -49,7 +49,7 @@ const breathingApp = () => {
   }, 12000);
 };
 
-// Start Breathing
+// Start Breathing >>
 start.addEventListener("click", () => {
   start.classList.add("button-inactive");
   instructions.innerText = "Get relaxed, and ready to begin breathing";
