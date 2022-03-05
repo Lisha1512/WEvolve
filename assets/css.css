@@ -80,6 +80,8 @@ h1, h2, h3, h4, h5, h6, .font-primary {
 #header .logo h1 a, #header .logo h1 a:hover {
   color: #7a6960;
   text-decoration: none;
+  font-family: 'Sacramento', cursive;
+  font-weight: bold;
 }
 #header .logo img {
   padding: 0;
@@ -293,6 +295,7 @@ h1, h2, h3, h4, h5, h6, .font-primary {
 }
 #hero h1 {
   margin: 0;
+  font-family: 'Lateef', cursive;
   font-size: 48px;
   font-weight: 700;
   line-height: 56px;
@@ -1239,6 +1242,9 @@ section {
     transform: rotate(360deg);
   }
 }
+.change{
+  font-family: 'Sacramento', cursive;
+}
 
 /*--------------------------------------------------------------
 # Footer
@@ -1384,7 +1390,8 @@ section {
 #footer .copyright {
   text-align: center;
   float: none;
-  font-size: 1.25rem;
+  font-family: 'Merriweather',serif;
+  font-size: 1rem;
 }
 #footer .credits {
   float: right;
